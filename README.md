@@ -1,13 +1,9 @@
----
-title:"README"
-author:"IIHARA"
-date:"2021/01/16/23:00"
----
+
 
 ## テキストエディタとして広く使われているDraft.jsです
 
 このリポジトリでは、create-react-appを使わない最小限のreact/ts環境を構築できるようにすることと、draft.jsの使い方を知ることを目的とした成果物があります。
-./draft-js/dist/index.htmlをブラウザで見て頂ければ試作したテキストエディタが使えます。
+ダウンロードして./draft-js/dist/index.htmlをブラウザで見て頂ければ試作したテキストエディタが使えます。
 
 ## 主なライブラリ
 
